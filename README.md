@@ -1,6 +1,6 @@
 # gatsby-plugin-bombora
 
-Easily add Bombora Id to your Gatsby site.
+Easily add Bombora ids to your Gatsby site.
 
 ## Install
 `yarn add gatsby-plugin-bombora`
